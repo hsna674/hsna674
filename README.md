@@ -17,7 +17,11 @@ In my free time, I like to work on personal CS projects, go swimming, listen to 
 * Shell: ZSH
 * CPU: M3 PRO (Macbook Pro)
 * Ram: 18 GB
-* GPU: Mac Integrated 😭
+* GPU: Integrated Mac Graphics 😭
+
+### I am currently working on:
+* Improving my CS skills
+* Creating cool projects
 <!--
 **hsna674/hsna674** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
