@@ -4,6 +4,8 @@ I am a student at Thomas Jefferson High School for Science and Technology
 
 In my free time, I like to work on personal CS projects, go swimming, listen to music, play the piano, and so much more
 
+Click [here](https://hsna674.github.io/) if you want to check out my portfolio!
+
 ### Coding Languages:
 * Python
 * Java
