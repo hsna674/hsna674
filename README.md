@@ -14,12 +14,12 @@ Click [here](https://hsna674.github.io/) if you want to check out my portfolio!
 * A bit of javascript
 
 ### My Software and Hardware
-* Editor: VS Code and NeoVim
-* OS: Mac and Fedora
+* Editor: VS Code, NeoVim, and Jetbrains IDEs
+* OS: Mac, Fedora, and Windows
 * Shell: ZSH
 * CPU: M3 PRO (Macbook Pro)
 * Ram: 18 GB
-* GPU: Integrated Mac Graphics 😭
+* GPU: Integrated Mac Graphics
 
 ### I am currently working on:
 * Improving my CS skills
